@@ -67,5 +67,3 @@ Simulation waveforms validating the functionality of the analog multiplier.
 
 **Imad Errami**
 
-Master's Student – Computer Science and Embedded Electronics Systems (IESE)
-
